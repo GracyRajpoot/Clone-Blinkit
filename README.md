@@ -15,8 +15,6 @@ This project is a **Blinkit-like landing page** built using **HTML and CSS**, de
 - **CSS3**: Styling and responsiveness using Flexbox and Grid.
 - **Google Fonts & Icons**: Enhancing typography and visuals.
 
-## Screenshots
-![Landing Page Preview](./Screenshot.png)
 
 ## Future Enhancements
 - **JavaScript Integration**: Adding interactivity such as dynamic product filtering and search functionality.
