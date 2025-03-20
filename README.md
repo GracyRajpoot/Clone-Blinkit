@@ -24,7 +24,7 @@ This project is a **Blinkit-like landing page** built using **HTML and CSS**, de
 ## How to Use
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/blinkit-clone.git
+   https://github.com/GracyRajpoot/Clone-Blinkit
    ```
 2. Open `index.html` in a browser.
 
